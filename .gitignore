@@ -1,0 +1,4 @@
+venv/
+.DS_Store
+people/*
+.pytest_cache/
